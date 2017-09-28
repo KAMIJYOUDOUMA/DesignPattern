@@ -1,4 +1,4 @@
-package priv.cais;
+package priv.cais.singleton;
 
 public class SingletonTest {
 

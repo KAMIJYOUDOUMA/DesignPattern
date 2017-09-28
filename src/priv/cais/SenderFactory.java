@@ -1,13 +1,13 @@
 package priv.cais;
 
 public class SenderFactory {
-	//<<¼òµ¥¹¤³§
+	//<<ç®€å•å·¥åŽ‚
 	public static Sender produce(int i) {
 		return i==0? new MailSender():new SmsSender();
 	}
 	//>>
 
-	//<<¶à¹¤³§
+	//<<æŠ½è±¡å·¥åŽ‚
 	public static Sender produceMail() {
 		return new MailSender();
 	}

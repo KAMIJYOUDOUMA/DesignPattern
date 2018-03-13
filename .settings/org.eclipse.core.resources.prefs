@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/priv/cais/singleton/Singleton.java=UTF-8
+encoding//src/priv/cais/singleton/SingletonDoubleCheck.java=UTF-8
+encoding//src/priv/cais/singleton/SingletonInnerClass.java=UTF-8
 encoding/<project>=UTF-8
